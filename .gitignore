@@ -10,6 +10,7 @@ build/
 dist/
 *.egg-info/
 
+.vscode/
 .ipynb_checkpoints/
 .pytest_cache/
 .mypy_cache/
@@ -18,6 +19,7 @@ dist/
 .DS_Store
 Thumbs.db
 
+notebook/frames
 anaconda_projects/
 anaconda_projects/db/*.db
 anaconda_projects/db/*.sqlite
