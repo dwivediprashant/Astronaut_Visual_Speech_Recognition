@@ -36,3 +36,7 @@ results/*.jpg
 results/*.jpeg
 results/*.pdf
 results/*.csv
+
+Main_code/*.keras
+Main_code/X_v2.npy
+Main_code/Y_v2.npy
